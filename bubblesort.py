@@ -27,9 +27,10 @@ def countSwaps(a):
                 
                 
 
-    print("Array is sorted in " +str(swaps)+ " swaps")
-    print("First Element:" + str(a[0]))
-    print("Last element:" + str(a[pos-1]))
+    print("Array is sorted in " +str(swaps)+" swaps.")
+    print("First Element: " +str(a[0]))
+    print("Last Element: "+str(a[pos - 1]))
+    
                 
             
         
