@@ -4,7 +4,7 @@ class Solution:
         hashset = set()
         #add items to hashmap by iterating thru the array
         for i in nums:
-            #if item is already in hashmap return true
+            #if item is already in hashmap return trueee
             if i in hashset:
                 return True
 
